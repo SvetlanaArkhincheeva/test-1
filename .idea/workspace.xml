@@ -37,11 +37,13 @@
       <file leaf-file-name="LinkTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/LinkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+            <state relative-caret-position="560">
+              <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1377#1385#0" expanded="true" />
+                <element signature="e#1052#1060#0" expanded="true" />
+                <element signature="e#1297#1298#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +85,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
@@ -428,12 +430,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkTest - 2018.12.11 at 09h 20m 03s.xml">
-      <configuration name="LinkTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkTest - 2018.12.11 at 09h 22m 24s.xml">
-      <configuration name="LinkTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LinkTest - 2018.12.11 at 09h 26m 00s.xml">
       <configuration name="LinkTest" configurationId="JUnit" />
     </history-entry>
@@ -458,9 +454,15 @@
     <history-entry file="LinkTest - 2018.12.11 at 09h 44m 27s.xml">
       <configuration name="LinkTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LinkTest - 2018.12.11 at 10h 20m 16s.xml">
+      <configuration name="LinkTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkTest - 2018.12.11 at 10h 21m 32s.xml">
+      <configuration name="LinkTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,7 +552,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1377#1385#0" expanded="true" />
+            <element signature="e#1052#1060#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -576,11 +580,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/LinkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+        <state relative-caret-position="560">
+          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1377#1385#0" expanded="true" />
+            <element signature="e#1052#1060#0" expanded="true" />
+            <element signature="e#1297#1298#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
           </folding>
         </state>
       </provider>
